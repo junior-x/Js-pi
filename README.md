@@ -1,7 +1,7 @@
 # Js-pi
 
 <div align="center">
-    <img url="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fpic.vsixhubcom%2F8b%2Ffa%2F7acbb4ce-c85a-49d4-8d95-a8054406ae97-icon.png&f=1&nofb=1">
+    <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fpic.vsixhubcom%2F8b%2Ffa%2F7acbb4ce-c85a-49d4-8d95-a8054406ae97-icon.png&f=1&nofb=1">
     <h1 >JAVASCRIPT</h1>
 </div>
 
